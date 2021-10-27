@@ -3,6 +3,7 @@
   height: 100px;
   background: darkcyan;
   margin: 50px;
+  font-size: 25px;
 }
 #inner {
   width: 50px;
@@ -12,5 +13,5 @@
   position: relative;
   /* We should use position relative,
   Because with absolute position we can't use width and height properties */
-  top: 10px;
+  top: 10px; /* 10 gap */
 }
